@@ -1,0 +1,31 @@
+{
+
+  "data": [
+
+    {
+
+      "title": "Ningen-Antartica",
+
+      "date": "11 Des 2022",
+
+      "views": 6666,
+
+      "rating": 3.7,
+
+      "image": "https://raw.githubusercontent.com/userworld43/userworld43.github.io/main/blogimage/image.jpg",
+
+      "author": {
+
+        "name": "Ningen Tachi",
+
+        "avatar": "https://raw.githubusercontent.com/userworld43/userworld43.github.io/main/blogimage/avatar.jpg"
+
+      },
+
+      "description": "PRIVASI GWA COK"
+
+    }
+
+  ]
+
+}
